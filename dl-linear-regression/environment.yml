@@ -1,0 +1,23 @@
+name: cs137
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - pytorch=2.0.1
+  - cudatoolkit
+  - python=3.9
+  - pytorch
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - setuptools
+  - jupyterlab
+  - tqdm
+  - python-graphviz
